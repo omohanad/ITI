@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Instructions SYSTEM "C:\Users\hp\Desktop\glory to iti\XML\XML D01\lab1\lab\instructions.dtd">
+<Instructions>
+    <Title>FOR Glory</Title>
+    <Info>
+        <Author Email="MohanadOSama">AhmedALI</Author>
+        <DocURL>Glory</DocURL>
+        <Version>2.7</Version>
+    </Info>
+    <Intro>
+        <Title>Move</Title>
+        <Para>One Step</Para>
+    </Intro>
+    <Prereq>
+        <Title>Find Reson</Title>
+        <Para>Fight</Para>
+    </Prereq>
+    <Steps>
+        <Title>Better</Title>
+        <Step>
+            <Title>Stronger</Title>
+            <Para>GOOO</Para>
+        </Step>
+    </Steps>
+    <Comments>
+        <Title>Faster</Title>
+        <Para>GO</Para>
+    </Comments>
+</Instructions>
